@@ -1,5 +1,5 @@
 # Social Media Backend REST API
-This repository contains the backend REST API for a social media application built with Express and MongoDB.
+This repository contains the backend REST API for a social media blog post application built with Express and MongoDB.
 
 ## Features
 - User Authentication (Sign Up, Log In, Logout)
